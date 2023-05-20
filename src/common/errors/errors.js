@@ -1,0 +1,8 @@
+const  ERROR_STATUS_CODES = {
+    SUCCES : 0 , 
+    INVALID_INPUT : 1000,
+    UNKOWN_ERROR : 1100 
+
+}
+
+module.exports = ERROR_STATUS_CODES
